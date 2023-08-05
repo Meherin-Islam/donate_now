@@ -181,7 +181,7 @@ h2 {
     margin-left: 100px;
 }
 
-input {
+.email {
     font-size: 40px;
     margin-left: 200px;
     margin-top: 130px;
@@ -217,4 +217,13 @@ input {
     background-color: black;
     padding-top: 40px;
     padding-bottom: 30px;
+}
+
+input {
+    margin-top: 30px;
+    font-size: 30px;
+    border-color: white;
+    border-top: white;
+    border-left: white;
+    margin-left: 0px;
 }
