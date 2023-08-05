@@ -1,0 +1,220 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.top-part {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 640px;
+    width: 100%;
+}
+
+.font-weight {
+    color: white;
+    font-size: 47px;
+}
+
+.Font-weight {
+    color: white;
+    text-align: center;
+    font-size: 23px;
+}
+
+.anchor-button {
+    text-decoration: none;
+    margin-left: 550px;
+    border-radius: 5px;
+    background: linear-gradient(orange, tomato);
+    padding: 15px 20px;
+    color: white;
+    font-size: 26px;
+}
+
+
+
+.black {
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+.centre {
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+
+}
+
+.box {
+
+    background-color: rgb(243, 237, 237);
+    float: left;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 15pxpx;
+    margin-right: 15px;
+    border-radius: 10px;
+
+}
+
+.two {
+    background-color: rgb(248, 230, 196);
+    border: 5px solid red;
+    color: red;
+
+}
+
+.gray {
+    padding-top: 200px;
+    color: gray;
+    font-weight: 500;
+}
+
+.Box {
+    float: left;
+    border: 5px 5px;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+.food {
+    margin-top: 100px;
+    background-color: rgb(161, 211, 205);
+    padding-top: 85px;
+    padding-bottom: 85px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 90px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 150px;
+}
+
+.shelter {
+    background-color: aquamarine;
+    margin-top: 100px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 150px;
+}
+
+.education {
+    background-color: cadetblue;
+    margin-top: 100px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 150px;
+
+}
+
+.donate {
+    background-color: rgb(240, 222, 199);
+    box-shadow: 5px 5px 10px 10px gray;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 120px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: solid rgb(71, 61, 61);
+}
+
+.relief {
+    background-color: rgb(224, 191, 151);
+    box-shadow: 5px 5px 10px 10px gray;
+    padding-top: 95px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: solid rgb(71, 61, 61);
+    margin-bottom: 70px;
+}
+
+.bus {
+    background-color: rgb(241, 130, 90);
+    box-shadow: 5px 5px 10px 10px gray;
+    padding-top: 95px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: solid rgb(71, 61, 61);
+    margin-bottom: 70px;
+}
+
+.img {
+    height: 40px;
+    margin-left: 100px;
+}
+
+input {
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 130px;
+    border-radius: 5px 5px;
+    margin-bottom: 100px;
+
+
+}
+
+.Subscribe {
+    text-decoration: none;
+    border-radius: 5px;
+    background: linear-gradient(orange, tomato);
+    padding-top: 15px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 10px;
+    color: white;
+    font-size: 26px;
+    margin-inline: 0px;
+}
+
+.cyan {
+    background-color: rgb(187, 247, 247);
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: 180px;
+    margin-right: 180px;
+
+}
+
+.foot {
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
